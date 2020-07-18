@@ -1,7 +1,7 @@
 <h2>Hi, Developer! Welcome to my Code Space!
   <img 
     title="Cube"
-    src=".github/images/cube.gif"
+    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/cube.gif"
     width="32"
     heigth="32" 
     style="
@@ -16,7 +16,7 @@
 
 <img
     title="Coding"
-    src=".github/images/coding.gif" 
+    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/coding.gif" 
     width="200" 
     height="200"
     align="right"
@@ -48,7 +48,7 @@ const angelo: Developer = {
 };
 ```
 
-<img title="People" src=".github/images/people.gif" width="60"> <em><b>I also love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img title="People" src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/people.gif" width="60"> <em><b>I also love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
