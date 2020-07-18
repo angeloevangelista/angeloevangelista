@@ -1,16 +1,70 @@
-### Hi there 👋
+<h2>Hi, Developer! Welcome to my Code Space!
+  <img 
+    title="Cube"
+    src=".github/images/cube.gif"
+    width="32"
+    heigth="32" 
+    style="
+      border-radius: 4px;
+      position: relative;
+      width: 32px;
+      height: 32px;
+      margin-left: 16px;
+    "
+  > 
+</h2>
 
-<!--
-**angeloevangelista/angeloevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+    title="Coding"
+    src=".github/images/coding.gif" 
+    width="200" 
+    height="200"
+    align="right"
+  />
 
-Here are some ideas to get you started:
+<p>
+  <em>Student of Systems Analysis and Development at 
+  <a 
+    title="IFSP"
+    href="https://www.ifsp.edu.br/"
+  >IFSP</a> <br />
+  
+  And Employee at <a title="EprofessionalTi" href="http://www.eprofessionalti.com/" >EprofessionalTi</a>
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: angeloevangelista](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-evangelista-5474a2177/)](https://www.linkedin.com/in/angelo-evangelista-5474a2177/) [![GitHub Angelo Evangelista](https://img.shields.io/github/followers/angeloevangelista?label=follow&style=social)](https://github.com/Angeloevangelista)
+
+### About me...
+
+```typescript
+const angelo: Developer = {
+  age: process.env.AGE,
+  pronouns: "He" || "Him",
+  know: ["HTML", "CSS", "JavaScript", "C#"],
+  learning: ["NodeJS", "ReactJs"],
+  os: ["Windows", "Linux"],
+  idioms: ["English", "Portuguese"],
+};
+```
+
+<img title="People" src=".github/images/people.gif" width="60"> <em><b>I also love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+  <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
+  <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
+  <!-- src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  -->
+
+<!-- coding
+    style="
+      display: flex;
+      float: right;
+      border: solid #fff 1px;
+      margin: 0 36px;
+      bottom: 120px;
+      border-radius: 50%;
+      position: relative;
+      flex-direction: row-reverse;
+      box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+    " -->
