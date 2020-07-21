@@ -41,8 +41,7 @@
 const angelo: Developer = {
   age: process.env.AGE,
   pronouns: "He" || "Him",
-  know: ["HTML", "CSS", "JavaScript", "C#"],
-  learning: ["NodeJS", "ReactJs"],
+  learning: ["HTML", "CSS", "JavaScript", "C#", "NodeJS", "ReactJs"],
   os: ["Windows", "Linux"],
   idioms: ["English", "Portuguese"],
 };
