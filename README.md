@@ -29,7 +29,7 @@
     href="https://www.ifsp.edu.br/"
   >IFSP</a> <br />
   
-  And Employee at <a title="EprofessionalTi" href="http://www.eprofessionalti.com/" >EprofessionalTi</a>
+  And Intern at <a title="EprofessionalTi" href="http://www.eprofessionalti.com/" >EprofessionalTi</a>
   </em>
 </p>
 
