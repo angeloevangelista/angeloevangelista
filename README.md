@@ -54,8 +54,6 @@ const angelo: Developer = {
 };
 ```
 
-<img title="People" src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/people.gif" width="60"> <em><b>I also love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
 
   <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
