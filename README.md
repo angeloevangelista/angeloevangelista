@@ -46,7 +46,8 @@ const angelo: Developer = {
   learning: [
     "HTML", 
     "CSS", 
-    "JavaScript", 
+    "JavaScript",
+    "TypeScript",
     "C#", 
     "NodeJS", 
     "ReactJs"
