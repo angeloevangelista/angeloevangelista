@@ -44,13 +44,14 @@ const angelo: Developer = {
   os: ["Windows", "Linux"],
   idioms: ["English", "Portuguese"],
   learning: [
+    "C#",
+    "JavaScript",
     "HTML", 
     "CSS", 
-    "JavaScript",
-    "TypeScript",
-    "C#", 
+    "TypeScript", 
     "NodeJS", 
-    "ReactJs"
+    "ReactJs",
+    "DotNet Core"
   ],
 };
 ```
