@@ -14,14 +14,6 @@
   > 
 </h2>
 
-<img
-    title="Coding"
-    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/coding.gif" 
-    width="200" 
-    height="200"
-    align="right"
-  />
-
 <p>
   <em>Student of Systems Analysis and Development at 
   <a 
@@ -35,6 +27,20 @@
 
 [![Linkedin: angeloevangelista](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-evangelista-5474a2177/)](https://www.linkedin.com/in/angelo-evangelista-5474a2177/) [![GitHub Angelo Evangelista](https://img.shields.io/github/followers/angeloevangelista?label=follow&style=social)](https://github.com/Angeloevangelista)
 
+<div align="center" height="500">
+
+<img
+    align="left"
+    title="Coding"
+    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/coding.gif" 
+    width="150" 
+    height="150"
+  />
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=angeloevangelista&theme=material-palenight&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+
+</div>
+
 ### About me...
 
 ```typescript
@@ -46,12 +52,12 @@ const angelo: Developer = {
   learning: [
     "C#",
     "JavaScript",
-    "HTML", 
-    "CSS", 
-    "TypeScript", 
-    "NodeJS", 
+    "HTML",
+    "CSS",
+    "TypeScript",
+    "NodeJS",
     "ReactJs",
-    "DotNet Core"
+    "DotNet Core",
   ],
 };
 ```
