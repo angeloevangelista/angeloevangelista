@@ -1,7 +1,7 @@
 <h2>Hi, Developer! Welcome to my Code Space!
   <img 
     title="Cube"
-    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/cube.gif"
+    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/rounded-cube.gif"
     width="32"
     heigth="32" 
     style="
@@ -32,7 +32,7 @@
 <img
     align="left"
     title="Coding"
-    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/coding.gif" 
+    src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/rounded-coding.gif" 
     width="150" 
     height="150"
   />
