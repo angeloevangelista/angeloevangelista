@@ -25,7 +25,7 @@
   </em>
 </p>
 
-[![Linkedin: angeloevangelista](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-evangelista-5474a2177/)](https://www.linkedin.com/in/angelo-evangelista-5474a2177/) 
+[![Linkedin: angeloevangelista](https://img.shields.io/badge/-angelo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-evangelista-5474a2177/)](https://www.linkedin.com/in/angelo-evangelista-5474a2177/) 
 [![GitHub Angelo Evangelista](https://img.shields.io/github/followers/angeloevangelista?label=follow&style=social)](https://github.com/Angeloevangelista)
 
 <div align="center" height="500">
