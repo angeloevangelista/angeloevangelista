@@ -25,8 +25,9 @@
   </em>
 </p>
 
-[![Linkedin: angeloevangelista](https://img.shields.io/badge/-angelo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-evangelista-5474a2177/)](https://www.linkedin.com/in/angelo-evangelista-5474a2177/) 
-[![GitHub Angelo Evangelista](https://img.shields.io/github/followers/angeloevangelista?label=follow&style=social)](https://github.com/Angeloevangelista)
+[![Linkedin: angeloevangelista](https://img.shields.io/badge/-Angelo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-evangelista-5474a2177/)](https://www.linkedin.com/in/angelo-evangelista-5474a2177/)
+[![Discord: Angelo_#8048](https://img.shields.io/badge/-Angelo__%238048-blue?style=flat&logo=Discord&color=7289da&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me)
+[![GitHub: Angelo Evangelista](https://img.shields.io/github/followers/angeloevangelista?label=follow&style=social)](https://github.com/Angeloevangelista)
 
 <div align="center" height="500">
 
@@ -46,7 +47,7 @@
 
 ```typescript
 const angelo: Developer = {
-  age: process.env.AGE,
+  estimated_age: process.env.Year - 2001,
   pronouns: "He" || "Him",
   os: ["Windows", "Linux"],
   idioms: ["English", "Portuguese"],
