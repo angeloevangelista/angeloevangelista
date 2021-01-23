@@ -21,7 +21,7 @@
     href="https://www.ifsp.edu.br/"
   >IFSP</a> <br />
   
-  And Intern at <a title="EprofessionalTi" href="http://www.eprofessionalti.com/" >EprofessionalTi</a>
+  dotNet Junior Developer at <a target="blank" title="Foursys" href="https://www.foursys.com.br/" >EprofessionalTi</a>
   </em>
 </p>
 
