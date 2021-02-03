@@ -59,6 +59,7 @@ const angelo: Developer = {
     "TypeScript",
     "NodeJS",
     "ReactJs",
+    "Angular",
   ],
 };
 ```
