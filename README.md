@@ -64,6 +64,12 @@ const angelo: Developer = {
 };
 ```
 
+You wanna a card? Take it there:
+
+```sh
+npx @angeloevangelista/card
+```
+
 ---
 
   <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
