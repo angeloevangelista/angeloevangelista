@@ -60,6 +60,7 @@ const angelo: Developer = {
     "NodeJS",
     "ReactJs",
     "Angular",
+    "Docker"
   ],
 };
 ```
