@@ -21,7 +21,7 @@
     href="https://www.ifsp.edu.br/"
   >IFSP</a> <br />
   
-  dotNet Junior Developer at <a target="blank" title="Foursys" href="https://www.foursys.com.br/" >Foursys</a>
+  DevOps Engineer at <a target="blank" title="Lab2Dev" href="https://lab2dev.com/" >Lab2Dev</a>
   </em>
 </p>
 
